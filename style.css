@@ -322,6 +322,7 @@ section {
 
 #experience {
   position: relative;
+  margin-top: 10%;
 }
 
 .experience-sub-title {
@@ -364,10 +365,12 @@ article .icon {
 
 #achievements {
   position: relative;
+  margin-top: 10%;
 }
 
 #recognitions {
   position: relative;
+  margin-top: 10%;
 }
 
 .color-container {
@@ -399,6 +402,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  margin-top: 10%;
 }
 
 .contact-info-upper-container {
